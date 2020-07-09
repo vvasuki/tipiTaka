@@ -13,7 +13,7 @@ unicode_script: devanagari
 ## ब्राह्मणेष्व् आक्षेपाः
 - छन्दस्यारोपणस्य निषेधो [ऽत्र](01_mUlam/01_vinayapiTaka/04_chULavaggapALi/05_khuddakavatthukkhandhakam/)।
 - "Vedic sages like Vasiṣṭha, Viśvāmitra, and Bhṛgu are described as the ancient authors of the mantras (porāṇā mantānaṃ kattāro), but they are criticized as being ignorant of the true path to the union with Brahmā ([Tevijjasutta](01_mUlam/02_suttapiTaka/01_dIghanikAyo/01_sIlakkhandhavaggapaaLi/13_tevijjasuttam/); Dīghanikāya; Suttapiṭaka)." 
-
+- ब्राम्मणवग्गे [चङ्कीसूत्तम्](01_mUlam/02_suttapiTaka/02_majjhimanikAyo/02_majjimapaNNAsapALi/05_brAhmaNavaggo/05_5_chankIsuttam/)।
 
 ## Tech details
 ### Building this site
