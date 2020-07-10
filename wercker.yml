@@ -28,4 +28,4 @@ build:
         branch: gh-pages
     - script:
         name: remove all files as a workaround to https://stackoverflow.com/questions/62826987/disable-wercker-store-step
-        code: find $WERCKER_SOURCE_DIR -name "*" -type f -delete
+        code: rm -rf $WERCKER_SOURCE_DIR/content
